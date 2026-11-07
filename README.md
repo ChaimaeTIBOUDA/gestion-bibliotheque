@@ -7,3 +7,4 @@ Chaimae TIBOUDA
     python -m bibliotheque.main
 ## Fonctionalités
  -Ajout et recherche de livres
+ - Recherche par titre, auteur et ISBN
